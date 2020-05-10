@@ -1,0 +1,44 @@
+[
+    {
+        "title":"O Cruzeiro",
+        "person":"Mestre Raimundo Irineu da Serra",
+        "images":[
+            "mestre-portrait.jpg"
+        ]
+    },
+    {
+        "title":"O Justiceiro",
+        "person":"Padrinho Sebastião",
+        "images":[
+            "padrinho-sebastiao-portrait.jpg"
+        ]
+    },
+    {
+        "title":"Lua Branca",
+        "person":"Madrinha Rita",
+        "images":[
+            "madrinha-rita-portrait.jpg"
+        ]
+    },
+    {
+        "title":"O Livrinho do Apocalipse",
+        "person":"Padrinho Valdete",
+        "images":[
+            "padrinho-valdete-portrait.jpg"
+        ]
+    },
+    {
+        "title":"Presença Transparente do Beija Flor",
+        "person":"Madrinha Nonata",
+        "images":[
+            "mestre-portrait.jpg"
+        ]
+    },
+    {
+        "title":"O Cruzeirinho",
+        "person":"Padrinho Alfredo",
+        "images":[
+            "padrinho-alfredo-portrait.jpg"
+        ]
+    }
+]

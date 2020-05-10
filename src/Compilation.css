@@ -1,0 +1,9 @@
+.Compilation {
+    width: 100%;
+    text-align: center;
+  }
+  
+  .Compilation > img {
+    width: 100%;
+    height: auto;
+  }
