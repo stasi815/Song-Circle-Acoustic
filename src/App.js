@@ -1,17 +1,25 @@
 import React from 'react';
-import logo from './logo.svg';
+import { HashRouter as Router, Route } from 'react-router-dom';
 import './App.css';
 import Title from './Title';
 import Footer from './Footer';
-import CompilationsList from './CompliationsList'
+import CompilationsList from './CompliationsList';
+import About from './About';
+import CompilationDetails from './CompilationDetails';
+
 
 function App() {
   return (
-    <div className="App">
-      <Title />
-      <CompilationsList />
-      <Footer />
-    </div>
+    <Router>
+      <div className="App">
+        <Title />
+        <Route exact path='/' component={CompilationsList} />
+        <Route path="/about" component={About} />
+        <Route path="/details/:id" component={CompilationDetails} />
+
+        <Footer />
+      </div>
+    </Router>
   );
 }
 

@@ -3,12 +3,14 @@ import Compilation from './Compilation';
 import './CompilationsList.css';
 import data from './collections.json';
 
-const compilations = data.map((obj) => {
+const compilations = data.map(({ title, person, images }, i) => {
     return (
     <Compilation
-        title={obj.title}
-        person={obj.person}
-        image={obj.images[0]}
+        id={i}
+        key={title}
+        title={title}
+        person={person}
+        image={images[0]}
     />
     )
 })
