@@ -3,10 +3,9 @@ import { HashRouter as Router, Route } from 'react-router-dom';
 import './App.css';
 import Title from './Title/Title';
 import Footer from './Footer/Footer';
-import CompilationsList from './CompilationsList/CompliationsList';
+import CompilationsList from './CompilationsList/CompilationsList';
 import About from './About/About';
 import CompilationDetails from './CompilationDetails/CompilationDetails';
-
 
 function App() {
   return (
@@ -16,7 +15,6 @@ function App() {
         <Route exact path='/' component={CompilationsList} />
         <Route path="/about" component={About} />
         <Route path="/details/:id" component={CompilationDetails} />
-
         <Footer />
       </div>
     </Router>

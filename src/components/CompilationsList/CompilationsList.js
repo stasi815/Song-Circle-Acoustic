@@ -23,4 +23,4 @@ function CompilationsList() {
     )
 }
 
-export default CompilationsList
+export default CompilationsList;
