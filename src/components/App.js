@@ -1,11 +1,11 @@
 import React from 'react';
 import { HashRouter as Router, Route } from 'react-router-dom';
 import './App.css';
-import Title from './Title';
-import Footer from './Footer';
-import CompilationsList from './CompliationsList';
-import About from './About';
-import CompilationDetails from './CompilationDetails';
+import Title from './Title/Title';
+import Footer from './Footer/Footer';
+import CompilationsList from './CompilationsList/CompliationsList';
+import About from './About/About';
+import CompilationDetails from './CompilationDetails/CompilationDetails';
 
 
 function App() {

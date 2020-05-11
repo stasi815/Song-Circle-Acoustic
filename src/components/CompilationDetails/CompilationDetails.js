@@ -1,5 +1,5 @@
 import React from 'react';
-import data from './collections.json';
+import data from '../collections.json';
 
 function CompilationDetails(props) {
   const { id } = props.match.params // Location index

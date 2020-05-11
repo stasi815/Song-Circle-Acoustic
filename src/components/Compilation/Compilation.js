@@ -1,7 +1,7 @@
 import React from 'react';
 import './Compilation.css';
 import { Link } from 'react-router-dom';
-import data from './collections.json';
+import data from '../collections.json';
 
 
 function Compilation(props) {

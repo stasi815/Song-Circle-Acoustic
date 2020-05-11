@@ -1,7 +1,7 @@
 import React from 'react';
-import Compilation from './Compilation';
-import './CompilationsList.css';
-import data from './collections.json';
+import './CompilationsList.css'
+import Compilation from '../Compilation/Compilation';
+import data from '../collections.json';
 
 const compilations = data.map(({ title, person, images }, i) => {
     return (
