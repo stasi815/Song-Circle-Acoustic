@@ -6,7 +6,7 @@ function CompilationDetails(props) {
   const { id } = props.match.params // Location index
   const { images, title, person, hymns } = data[id]
   const hymnList = hymns.map((hymn) => {
-  const { number, name, chords, style } = hymn
+    const { number, name, chords, style } = hymn
     return (
       <div>
         <div>{ number }. { name }</div>
