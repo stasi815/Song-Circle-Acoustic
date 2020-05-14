@@ -10,7 +10,7 @@ function CompilationDetails(props) {
   return (
     <div className='comp-details'>
       <div>
-        <img src={`${process.env.PUBLIC_URL}images/${images[0]}`} alt="hello" />
+        <img src={`${process.env.PUBLIC_URL}/images/${images[0]}`} alt="hello" />
       </div>
 
       <div>

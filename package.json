@@ -1,7 +1,7 @@
 {
   "name": "song-circle-acoustic",
   "version": "0.1.0",
-  "homepage": "https://stasi815.github.io/Song-Circle-Acoustic",
+  "homepage": "http://remotedevotion.com/Song-Circle-Acoustic/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
