@@ -1,10 +1,17 @@
 import React from 'react'
-
 import './About.css'
+import backgroundImage from './treelight.jpg'
+
+const styles = {
+  backgroundImage: `url(${backgroundImage})`,
+  backgroundPosition: 'center center',
+  backgroundRepeat: 'no-repeat',
+  backgroundAttachment: 'fixed',
+}
 
 function About() {
   return (
-    <div className="about">
+    <div className="about" style={ styles }>
       <div className="overlay"></div>
         <div className="about-text">
           <h1>About Song Circle Acoustic</h1>

@@ -4,7 +4,9 @@
     margin: 0;
     padding: 1em;
     position: relative;
-    background: url(%PUBLIC_URL%/images/treelight.jpg) no-repeat center center fixed;
+    background-image: url("%PUBLIC_URL%/images/treelight.jpg");
+    background-repeat: no-repeat;
+    background-position: center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;

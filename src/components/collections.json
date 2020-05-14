@@ -13,49 +13,57 @@
                 "style":"valsa"
             },
             {
-                "number": "1",
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "2",
+                "name":"Tuperci",
+                "chords":"G B C Am Dm",
                 "style":"marcha"
             },
             {
-                "number": "1",
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "3",
+                "name":"Ripi",
+                "chords":"Dm F Gm Am A7",
                 "style":"marcha"
             },
             {
-                "number": "1",
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "4",
+                "name":"Formosa",
+                "chords":"D G F#m Em A A7",
                 "style":"marcha"
             },
             {
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "5",
+                "name":"Refeição",
+                "chords":"C F Em Bb Am Gm",
                 "style":"marcha"
             },
             {
-                "number": "1",
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "6",
+                "name":"Papai Paxá",
+                "chords":"C F C E Am Dm Gm",
                 "style":"marcha"
             },
             {
-                "number": "1",
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "7",
+                "name":"Dois de Novembro",
+                "chords":"Em Am C Dm Bm",
+                "style":"valsa"
+            },
+            {
+                "number": "8",
+                "name":"A Rainha Me Mandou",
+                "chords":"C G Am Em Dm",
+                "style":"valsa"
+            },
+            {
+                "number": "9",
+                "name":"Mãe Celestial",
+                "chords":"Bb Gm Cm F",
                 "style":"marcha"
             },
             {
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
-                "style":"marcha"
-            },
-            {
-                "number": "1",
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "10",
+                "name":"Eu Devo Pedir",
+                "chords":"C G D F# Em Am Dm",
                 "style":"marcha"
             }
         ]
@@ -74,49 +82,57 @@
                 "style":"marcha"
             },
             {
-                "number": "1",
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "2",
+                "name":"Estou Aqui",
+                "chords":"Am G Dm C",
                 "style":"marcha"
             },
             {
-                "number": "1",
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "3",
+                "name":"Firmeza",
+                "chords":"G C F Em",
                 "style":"marcha"
             },
             {
-                "number": "1",
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "4",
+                "name":"Eu Estou Firme Com Meu Jesus",
+                "chords":"C F Dm Am Gm",
                 "style":"marcha"
             },
             {
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "5",
+                "name":"Eu Vivo Neste Mundo",
+                "chords":"C G F",
                 "style":"marcha"
             },
             {
-                "number": "1",
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "6",
+                "name":"Eu Vivo Na Floresta",
+                "chords":"C Am F G Em",
                 "style":"marcha"
             },
             {
-                "number": "1",
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "7",
+                "name":"Jesus Cristo Está No Céu",
+                "chords":"C Am G F Em",
                 "style":"marcha"
             },
             {
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "8",
+                "name":"Eu Estava No Deserto",
+                "chords":"C G Am",
                 "style":"marcha"
             },
             {
-                "number": "1",
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "9",
+                "name":"O Povo Estão Rebeldes",
+                "chords":"C G Em Am B",
+                "style":"marcha"
+            },
+            {
+                "number": "10",
+                "name":"A Barquinha",
+                "chords":"G Em Am C",
                 "style":"marcha"
             }
         ]
