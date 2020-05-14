@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "840ec2b30ffc5a44a13c597b85584033",
+    "revision": "834e82fbc06d7847677696d261dd5eef",
     "url": "/Song-Circle-Acoustic/index.html"
   },
   {
-    "revision": "416792991d8c65dae8b4",
+    "revision": "75b48aa7d4c7034d1527",
     "url": "/Song-Circle-Acoustic/static/css/main.d2b4ebaa.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Song-Circle-Acoustic/static/js/2.b16ac58e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "416792991d8c65dae8b4",
-    "url": "/Song-Circle-Acoustic/static/js/main.494bf5c6.chunk.js"
+    "revision": "75b48aa7d4c7034d1527",
+    "url": "/Song-Circle-Acoustic/static/js/main.3fba755f.chunk.js"
   },
   {
     "revision": "846d28a24ce078fff1f8",

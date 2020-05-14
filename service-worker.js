@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Song-Circle-Acoustic/precache-manifest.cded8dfe4f1d0ce75a8d725d65f8a7c6.js"
+  "/Song-Circle-Acoustic/precache-manifest.9bacbdc21b50f6a5658b567da3364086.js"
 );
 
 self.addEventListener('message', (event) => {
