@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Song-Circle-Acoustic/static/css/main.d2b4ebaa.chunk.css",
+    "main.js": "/Song-Circle-Acoustic/static/js/main.494bf5c6.chunk.js",
+    "main.js.map": "/Song-Circle-Acoustic/static/js/main.494bf5c6.chunk.js.map",
+    "runtime-main.js": "/Song-Circle-Acoustic/static/js/runtime-main.0be00051.js",
+    "runtime-main.js.map": "/Song-Circle-Acoustic/static/js/runtime-main.0be00051.js.map",
+    "static/js/2.b16ac58e.chunk.js": "/Song-Circle-Acoustic/static/js/2.b16ac58e.chunk.js",
+    "static/js/2.b16ac58e.chunk.js.map": "/Song-Circle-Acoustic/static/js/2.b16ac58e.chunk.js.map",
+    "index.html": "/Song-Circle-Acoustic/index.html",
+    "precache-manifest.cded8dfe4f1d0ce75a8d725d65f8a7c6.js": "/Song-Circle-Acoustic/precache-manifest.cded8dfe4f1d0ce75a8d725d65f8a7c6.js",
+    "service-worker.js": "/Song-Circle-Acoustic/service-worker.js",
+    "static/css/main.d2b4ebaa.chunk.css.map": "/Song-Circle-Acoustic/static/css/main.d2b4ebaa.chunk.css.map",
+    "static/js/2.b16ac58e.chunk.js.LICENSE.txt": "/Song-Circle-Acoustic/static/js/2.b16ac58e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0be00051.js",
+    "static/js/2.b16ac58e.chunk.js",
+    "static/css/main.d2b4ebaa.chunk.css",
+    "static/js/main.494bf5c6.chunk.js"
+  ]
+}
