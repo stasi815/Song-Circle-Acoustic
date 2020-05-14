@@ -9,7 +9,7 @@ function Compilation(props) {
     return (
         <div className="Compilation">
             <Link to={`/details/${id}`}>
-                <img src={`${process.env.PUBLIC_URL}images/${image}`} width='auto' height='auto' alt='hello'/>
+                <img src={`${process.env.PUBLIC_URL}/images/${image}`} width='auto' height='auto' alt='hello'/>
             </Link>
             <h1>
                 <Link to={`/details/${id}`}>
