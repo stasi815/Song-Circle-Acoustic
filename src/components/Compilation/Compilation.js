@@ -1,7 +1,7 @@
 import React from 'react';
 import './Compilation.css';
 import { Link } from 'react-router-dom';
-import data from '../collections.json';
+// import data from '../collections.json';
 
 
 function Compilation(props) {
@@ -9,7 +9,7 @@ function Compilation(props) {
     return (
         <div className="Compilation">
             <Link to={`/details/${id}`}>
-                <img src={`${process.env.PUBLIC_URL}images/${image}`} width='auto' height='auto' alt='alt image'/>
+                <img src={`${process.env.PUBLIC_URL}images/${image}`} width='auto' height='auto' alt='hello'/>
             </Link>
             <h1>
                 <Link to={`/details/${id}`}>

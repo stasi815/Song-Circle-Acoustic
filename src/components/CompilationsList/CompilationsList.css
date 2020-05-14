@@ -1,8 +1,14 @@
 .CompilationsList {
-    width: calc(100% - 80px);
-    margin: auto;
+    width: 100%;
+    margin: 0;
     margin-top: 2em;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 40px;
+    height: 100vh;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    position: relative;
   }
