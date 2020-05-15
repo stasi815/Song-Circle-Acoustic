@@ -151,50 +151,58 @@
                 "style":"marcha"
             },
             {
-                "number": "1",
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "2",
+                "name":"Eu Vou Trabalhar",
+                "chords":"C Dm G Em",
                 "style":"marcha"
             },
             {
-                "number": "1",
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "3",
+                "name":"Meu Mestre Me Cure",
+                "chords":"G Em C Dm",
                 "style":"marcha"
             },
             {
-                "number": "1",
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "4",
+                "name":"A Meu Pai Eu Peço Força",
+                "chords":"D A Bm F#m Em",
                 "style":"marcha"
             },
             {
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "5",
+                "name":"Peço Uma Ajuda a Meu Mestre",
+                "chords":"C G Am Dm",
                 "style":"marcha"
             },
             {
-                "number": "1",
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "6",
+                "name":"Há Tempo Estou Nesta Casa",
+                "chords":"C G F Em",
                 "style":"marcha"
             },
             {
-                "number": "1",
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "7",
+                "name":"Meu Mestre a Vós Eu Peço",
+                "chords":"C Dm C F Am G",
                 "style":"marcha"
             },
             {
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "8",
+                "name":"Duas Flores",
+                "chords":"C E Am Dm F",
                 "style":"marcha"
             },
             {
-                "number": "1",
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "9",
+                "name":"Peço Firmeza a Meu Pai",
+                "chords":"C Am Dm Em G",
                 "style":"marcha"
+            },
+            {
+                "number": "10",
+                "name":"Oh! Minha Senhora Mãe",
+                "chords":"C Dm C7 F G Am",
+                "style":"valsa"
             }
         ]
 
@@ -213,49 +221,57 @@
                 "style":"marcha"
             },
             {
-                "number": "1",
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "2",
+                "name":"Só Vós Com Seu Poder",
+                "chords":"A E D",
                 "style":"marcha"
             },
             {
-                "number": "1",
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "3",
+                "name":"Eu Peço Forças Das Estrelas",
+                "chords":"",
                 "style":"marcha"
             },
             {
-                "number": "1",
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "4",
+                "name":"Eu Peço A Meus São Miguel",
+                "chords":"C Am G F",
                 "style":"marcha"
             },
             {
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "5",
+                "name":"Casa Da Família",
+                "chords":"C G",
+                "style":"mazurca"
+            },
+            {
+                "number": "6",
+                "name":"Eu Peço Força",
+                "chords":"G C Dm",
                 "style":"marcha"
             },
             {
-                "number": "1",
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "7",
+                "name":"Lembranças De Perdão",
+                "chords":"A Bm E",
                 "style":"marcha"
             },
             {
-                "number": "1",
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "8",
+                "name":"Em Roda Dos Meninos",
+                "chords":"C G Am Dm",
                 "style":"marcha"
             },
             {
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "9",
+                "name":"O Infinito",
+                "chords":"C G Dm Em",
                 "style":"marcha"
             },
             {
-                "number": "1",
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "10",
+                "name":"Parabéns",
+                "chords":"A Bm E",
                 "style":"marcha"
             }
         ]
@@ -274,49 +290,45 @@
                 "style":"marcha"
             },
             {
-                "number": "1",
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "2",
+                "name":"O Seu Perfume",
+                "chords":"C G7 Cmaj7 Fmaj7 Am",
                 "style":"marcha"
             },
             {
-                "number": "1",
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "3",
+                "name":"Presença Transparente",
+                "chords":"C Cmaj7 G7 Dm",
                 "style":"marcha"
             },
             {
-                "number": "1",
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "4",
+                "name":"Minha Mãe Minha Mãezinha",
+                "chords":"C Cmaj7 Dm G G7",
                 "style":"marcha"
             },
             {
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "5",
+                "name":"Meu Sucessor",
+                "chords":"C Fmaj7 G7",
                 "style":"marcha"
             },
             {
-                "number": "1",
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "6",
+                "name":"Grande Estrondo",
+                "chords":"D G7 Am Fmaj7 G C",
                 "style":"marcha"
             },
             {
-                "number": "1",
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "7",
+                "name":"Meu Pai",
+                "chords":"C Cmaj7 G7",
                 "style":"marcha"
             },
             {
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
-                "style":"marcha"
-            },
-            {
-                "number": "1",
-                "name":"Meu Mestre a Vós Eu Peç0",
-                "chords":"D A Bm F#m Em A D",
+                "number": "8",
+                "name":"Estou Aqui",
+                "chords":"Bm7 Em F#7 Bm Gmaj7 C#",
                 "style":"marcha"
             }
         ]
@@ -331,7 +343,7 @@
                 {
                     "number": "1",
                     "name":"Meu Mestre a Vós Eu Peço",
-                    "chords":"D A Bm F#m Em A D",
+                    "chords":"D A Bm F#m Em",
                     "style":"marcha"
                 },
                 {
@@ -341,43 +353,51 @@
                     "style":"marcha"
                 },
                 {
-                    "number": "1",
-                    "name":"Meu Mestre a Vós Eu Peç0",
-                    "chords":"D A Bm F#m Em A D",
+                    "number": "3",
+                    "name":"Meu Pai Está No Ceu",
+                    "chords":"D Em A",
                     "style":"marcha"
                 },
                 {
-                    "number": "1",
-                    "name":"Meu Mestre a Vós Eu Peç0",
-                    "chords":"D A Bm F#m Em A D",
+                    "number": "4",
+                    "name":"Deus Vós Sois Divino",
+                    "chords":"G C D",
+                    "style":"valsa"
+                },
+                {
+                    "number": "5",
+                    "name":"Aqui Eu Vou Pedir",
+                    "chords":"A D E",
                     "style":"marcha"
                 },
                 {
-                    "name":"Meu Mestre a Vós Eu Peç0",
-                    "chords":"D A Bm F#m Em A D",
+                    "number": "6",
+                    "name":"As Agonias de Jesus",
+                    "chords":"Bm F# Em",
+                    "style":"valsa"
+                },
+                {
+                    "number": "7",
+                    "name":"Os Louvores Vem de Cima",
+                    "chords":"Dm A D7 Gm",
                     "style":"marcha"
                 },
                 {
-                    "number": "1",
-                    "name":"Meu Mestre a Vós Eu Peç0",
-                    "chords":"D A Bm F#m Em A D",
+                    "number": "8",
+                    "name":"Peço Licença A Natureza",
+                    "chords":"Dm A D7 Gm",
                     "style":"marcha"
                 },
                 {
-                    "number": "1",
-                    "name":"Meu Mestre a Vós Eu Peç0",
-                    "chords":"D A Bm F#m Em A D",
+                    "number": "9",
+                    "name":"Eu Estou Vendo Tudo Aí",
+                    "chords":"Dm A Gm",
                     "style":"marcha"
                 },
                 {
-                    "name":"Meu Mestre a Vós Eu Peç0",
-                    "chords":"D A Bm F#m Em A D",
-                    "style":"marcha"
-                },
-                {
-                    "number": "1",
-                    "name":"Meu Mestre a Vós Eu Peç0",
-                    "chords":"D A Bm F#m Em A D",
+                    "number": "10",
+                    "name":"Ligação Divina",
+                    "chords":"Dm A F",
                     "style":"marcha"
                 }
         ]
