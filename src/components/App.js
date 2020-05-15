@@ -7,7 +7,7 @@ import CompilationsList from './CompilationsList/CompilationsList';
 import About from './About/About';
 import CompilationDetails from './CompilationDetails/CompilationDetails';
 import HymnList from './HymnList'
-// import Hymn from './Hymn/Hymn';
+import Hymn from './Hymn/Hymn';
 
 function App() {
   return (
@@ -17,7 +17,7 @@ function App() {
         <Route exact path='/' component={CompilationsList} />
         <Route path="/about" component={About} />
         <Route path="/details/:id" component={CompilationDetails} />
-        <HymnList />
+        <Route path=":id/:name" component={Hymn} />
         <Footer />
       </div>
     </Router>
